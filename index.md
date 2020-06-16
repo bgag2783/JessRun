@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Run</title>
-	</head>
-	<body>
-		<div>
-        		<h1>Hi!</h1>
-				<p>Turns out, domains are really cheap these days...</p>
-		</div>
-	</body>
-</html>
+**Hi!**
+Turns out, domains are like *really* cheap...
+You can have this one, if you want!
